@@ -11,6 +11,4 @@ citation: 'Aronson, R. M. et al. (2017) Data-Driven Classification of Screwdrivi
 ---
 {{ page.excerpt }}
 
-Recommended citation: {{ page.citation }}
-
 Download: [PDF]({{ page.fileurl }}) [Springer]({{ page.paperurl }})
