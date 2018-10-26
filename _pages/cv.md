@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ------
-* B.S. in Mechanical Engineering, Massachusetts Institute of Technology, 2012
+* B. S. in Mechanical Engineering, Massachusetts Institute of Technology, 2012
   * Minor: Ancient-Medieval Studies
-* Ph.D in Robotics, Carnegie Mellon University, 2021 (expected)
+* M. S. in Robotics, Carnegie Mellon University, 2018
+* Ph. D. in Robotics, Carnegie Mellon University, 2021 (expected)
 
 Work experience
 ------
@@ -50,9 +51,29 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Journal papers
+
+  {% for post in site.publications reversed %}
+    {% if post.pubtype == "journal" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+## Conference papers
+
+  {% for post in site.publications reversed %}
+    {% if post.pubtype == "conference" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+## Workshop papers
+
+  {% for post in site.publications reversed %}
+    {% if post.pubtype == "workshop" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
   
 <!-- Talks
 ======
