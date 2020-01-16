@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF](/files/aronson-cv.pdf)
+
 Education
 ------
 * B. S. in Mechanical Engineering, Massachusetts Institute of Technology, 2012
@@ -19,7 +21,7 @@ Education
 Work experience
 ------
 ### Mechanical Engineer, Naval Research Laboratory (Contractor with Exelis, Inc.)
-*Washington, DC — July 2012 to present*
+*Washington, DC — July 2012 to June 2015*
 
 NRL code 5775 (Special Projects Group) works on various projects related to electronic warfare and radar.
 * Work closely with the mechanical and electrical design teams to provide support and ensure software compatibility, and participate in mechanical and electrical design reviews
