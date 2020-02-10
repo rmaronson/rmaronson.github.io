@@ -21,7 +21,7 @@ Education
 
 Publications
 ======
-## Thesis Work
+## Thesis work
 
   {% for post in site.publications reversed %}
     {% if post.pubtype == "thesis" %}
