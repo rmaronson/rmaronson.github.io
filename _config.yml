@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false #  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -127,6 +127,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - _pages/HIDE
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -138,10 +139,12 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - markdown_generator
   - node_modules
   - package.json
   - Rakefile
   - README
+  - talkmap
   - tmp
 keep_files:
   - .git
@@ -173,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -256,7 +259,7 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
