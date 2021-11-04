@@ -35,9 +35,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p itemprop="description">{{ post.citation }}
+    <p itemprop="description">
+    {% if post.venue %} {{ post.citation }} {% endif %}
+    {% if post.altsubhead %} {{ post.altsubhead }} {% endif %}
       {% if post.paperurl %} <a href="{{ post.paperurl }}" style="font-weight: bold; padding-left: 0.2em;">Link</a> {% endif %}
+      {% if post.preprinturl %} <a href="{{ post.preprinturl }}" style="font-weight: bold; padding-left: 0.2em;">Preprint (may not match published version)</a>  {% endif %}
       {% if post.fileurl %} <a href="{{ post.fileurl }}" style="font-weight: bold; padding-left: 0.2em;">PDF</a> {% endif %}
-    </p> {% endif %}
+    </p> 
  </article>
 </div>

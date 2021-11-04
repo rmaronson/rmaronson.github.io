@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ------
-* B. S. in Mechanical Engineering, Massachusetts Institute of Technology, 2012
-  * Minor: Ancient-Medieval Studies
+* Ph. D. in Robotics, Carnegie Mellon University, 2022 (expected)
+  * Advisor: [Henny Admoni](http://hennyadmoni.com/)
 * M. S. in Robotics, Carnegie Mellon University, 2018
-* Ph. D. in Robotics, Carnegie Mellon University, 2021 (expected)
-
+  * Advisor: [Henny Admoni](http://hennyadmoni.com/)
+* B. S. in Mechanical Engineering, Massachusetts Institute of Technology, 2012
 
 Publications
 ======
@@ -52,22 +52,26 @@ Publications
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}
-  
-<!-- Talks
+
+{% comment %} 
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+  {% endfor %}</ul>
+{% endcomment %}
+
+
+
 Work experience
-------
-### Mechanical Engineer, Naval Research Laboratory (Contractor with Exelis, Inc.)
+======
+**Mechanical Engineer, Naval Research Laboratory (Contractor with Exelis, Inc.)**<br />
 *Washington, DC — July 2012 to June 2015*
 
 <!--
@@ -75,6 +79,7 @@ NRL code 5775 (Special Projects Group) works on various projects related to elec
 * Work closely with the mechanical and electrical design teams to provide support and ensure software compatibility, and participate in mechanical and electrical design reviews
 * Conduct major tests and exercises, including leading a team of three aboard the USS Spruance in July 2014 for a five-country, four-day test event as part of the Navy’s biennial RIMPAC exercises -->
 
+{% comment %}
 ### Experimental Studies Group (Teaching Assistant)
 *MIT — Fall 2009-Spring 2012*
 
@@ -96,14 +101,18 @@ Research and development team of GE FG&M investigating novel ways of measuring f
 * Presented on summer work to other engineers and interns 
 * Patent resulting from summer work
 -->
-  
+
+{% endcomment %}
+
 Skills
 ======
 * Programming languages: C++, Python, LaTeX, MATLAB
 * Software: ROS, MATLAB, Solidworks, Linux
-* Fabrication and experimentation equipment: Mill (manual and CNC), lathe, waterjet and laserjet, 3D printer
+* Fabrication equipment: Mill (manual and CNC), lathe, laserjet, waterjet, 3D printer
 
-Service and leadership
+Service
 ======
-* Founding member of [CMU Tech4Society](http://www.tech4society.group/)
-* Member of the SCS4All PhD Initiative, a group of Ph. D. students at SCS working to improve the graduate student experience
+* Reviewer for AURO 2018, HRI 2018-2022, HUMANOIDS 2016-2017, 2019, IEEE VR 2019, IROS 2018, RA-L 2021, RO-MAN 2021, RSS 2019, THRI 2020-2021, UIST 2019
+* Co-founder and organizer of the CMU [HRI Reading Group](http://harp.ri.cmu.edu/reading-group/), 2018-present
+* Founding member of [CMU Tech4Society](http://www.tech4society.group/), 2016-2019
+* Founding member of the SCS4All PhD Initiative, which advocates for and supports PhD students at the CMU School of Computer Science, 2017-2019

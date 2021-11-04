@@ -2,7 +2,7 @@
 title: "A Survey of Automated Threaded Fastening"
 collection: publications
 pubtype: journal
-permalink: /publication/208-06-21-survey_threaded_fastening
+permalink: /publication/2018-06-21-survey_threaded_fastening
 excerpt: ''
 date: 2018-06-21
 venue: 'IEEE Transactions on Automation Science and Engineering'
