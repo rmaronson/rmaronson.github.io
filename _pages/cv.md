@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-* Ph. D. in Robotics, Carnegie Mellon University, 2022 (expected)
+* Ph. D. in Robotics, Carnegie Mellon University, 2022
   * Advisor: [Henny Admoni](http://hennyadmoni.com/)
 * M. S. in Robotics, Carnegie Mellon University, 2018
   * Advisor: [Henny Admoni](http://hennyadmoni.com/)

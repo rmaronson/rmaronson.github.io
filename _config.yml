@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Reuben Aronson"
 title_separator          : "-"
 name                     : &name "Reuben Aronson"
-description              : &description "PhD student at the CMU Robotics Institute"
+description              : &description "Postdoc student at AABL Lab, Tufts University"
 url                      : http://reuben-aronson.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rmaronson/rmaronson.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Reuben Aronson"
   avatar           : "profile.jpg"
-  bio              : "PhD student at the Robotics Institute at CMU studying assistive manipulation and nonverbal signals."
+  bio              : "Postdoc at the AABL Lab at Tufts University studying assistive robotics."
   location         : "Pittsburgh, Pennsylvania"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-HIfxw4AAAAJ&hl=en"
-  email            : "rmaronson@cmu.edu"
+  email            : "reuben.aronson@tufts.edu"
   uri              :
   bitbucket        :
   codepen          :
