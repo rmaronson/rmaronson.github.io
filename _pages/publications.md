@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+## Thesis
+
+  {% for post in site.publications reversed %}
+    {% if post.pubtype == "thesis" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
 ## Journal papers
 
   {% for post in site.publications reversed %}

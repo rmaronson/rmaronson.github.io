@@ -36,7 +36,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     <p itemprop="description">
-    {% if post.venue %} {{ post.citation }} {% endif %}
+    {% if post.citation %} {{ post.citation }} {% endif %}
     {% if post.altsubhead %} {{ post.altsubhead }} {% endif %}
       {% if post.paperurl %} <a href="{{ post.paperurl }}" style="font-weight: bold; padding-left: 0.2em;">Link</a> {% endif %}
       {% if post.preprinturl %} <a href="{{ post.preprinturl }}" style="font-weight: bold; padding-left: 0.2em;">Preprint (may not match published version)</a>  {% endif %}
