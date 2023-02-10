@@ -113,6 +113,8 @@ Skills
 Service
 ======
 * Reviewer for AURO 2018, HRI 2018-2022, HUMANOIDS 2016-2017, 2019, IEEE VR 2019, IROS 2018, RA-L 2021, RO-MAN 2021, RSS 2019, THRI 2020-2021, UIST 2019
-* Co-founder and organizer of the CMU [HRI Reading Group](http://harp.ri.cmu.edu/reading-group/), 2018-present
+* Co-founder and organizer, Tufts HRI Colloquium (weekly series), 2022-present
+* Organizer, [All Things Attention workshop](https://attention-learning-workshop.github.io/) at NeurIPS 2022
+* Co-founder and organizer of the CMU [HRI Reading Group](http://harp.ri.cmu.edu/reading-group/), 2018-2022
 * Founding member of [CMU Tech4Society](http://www.tech4society.group/), 2016-2019
 * Founding member of the SCS4All PhD Initiative, which advocates for and supports PhD students at the CMU School of Computer Science, 2017-2019
