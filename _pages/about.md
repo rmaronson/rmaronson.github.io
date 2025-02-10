@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the [AABL Lab](https://aabl.cs.tufts.edu/) at Tufts University in Medford, MA. My work focuses on developing complex robot autonomy to empower users.
+I am a postdoc at the [AABL Lab](https://aabl.cs.tufts.edu/) at Tufts University in Medford, MA. My work focuses on developing complex robot autonomy and shared control algorithms to empower users.
 
 I earned a Ph. D. at the [Robotics Institute](http://ri.cmu.edu) at Carnegie Mellon University in Pittsburgh, Pennsylvania. I worked at the [HARP Lab](http://harp.ri.cmu.edu) with [Henny Admoni](http://hennyadmoni.com), studying how to incorporate eye gaze into assistive teleoperated manipulations.
 
@@ -21,4 +21,4 @@ I graduated from [MIT](https://web.mit.edu/) in 2012 with a B.S. in Mechanical E
 
 [View my publications on Google Scholar](https://scholar.google.com/citations?user=-HIfxw4AAAAJ&hl=en)
 
-I am on the **faculty job market** for Fall 2024 -- please reach out!
+I am looking for **research jobs** starting in spring/summer 2025! I am currently in Somerville, MA but may be willing to relocate for the right position. Please reach out!
